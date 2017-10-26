@@ -10,4 +10,5 @@
 z.score.vec <- function(v){
 	zs <- (v-mean(v))/sd(v)
 	zs
+    plot(zs)
 }
