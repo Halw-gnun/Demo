@@ -1,5 +1,5 @@
 # Demo
-install.packages(“devtools”)\
+install.packages('devtools')\
 library(devtools)\
-install_github(“shambam/Demo”)\
+install_github('shambam/Demo')\
 library(Demo)
